@@ -58,16 +58,17 @@ Project for ESP32 that monitors temperature, humidity, and smoke levels in a roo
 **Slovensky:** Ukážky aplikácie, zapojenia a výstupov.  
 **English:** Application, wiring, and output previews.  
 
-![Poster - Air Monitoring System](images/_Poster - Air Monitoring System.jpg)  
-![IoT Air Monitoring System](images/01_IoT_Air Monitoring System.jpg)  
-![Schematic](images/02_- Schematic.jpg)  
-![Display Screen](images/03_DisplayScreen.jpg)  
-![ESP32 Pinout](images/04_ESP32-NODEMCU-ESP-32S-pinout.jpg)  
-![ThingSpeak Data Collection](images/05_ThingSpeak_data collection.jpg)  
-![IFTTT Applet](images/06_IFTTTapplet.jpg)  
-![Smoke Alert - Email Message](images/07_Smoke Alert - email message.jpg)  
+[_Poster - Air Monitoring System.jpg](images/_Poster - Air Monitoring System.jpg)  
+[01_IoT_Air Monitoring System.jpg](images/01_IoT_Air Monitoring System.jpg)  
+[02_- Schematic.jpg](images/02_- Schematic.jpg)  
+[03_DisplayScreen.jpg](images/03_DisplayScreen.jpg)  
+[04_ESP32-NODEMCU-ESP-32S-pinout.jpg](images/04_ESP32-NODEMCU-ESP-32S-pinout.jpg)  
+[05_ThingSpeak_data collection.jpg](images/05_ThingSpeak_data collection.jpg)  
+[06_IFTTTapplet.jpg](images/06_IFTTTapplet.jpg)  
+[07_Smoke Alert - email message.jpg](images/07_Smoke Alert - email message.jpg)  
 
 ---
 
 ## Autor / Author
 M. Jamrichová
+
