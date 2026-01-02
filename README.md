@@ -47,9 +47,9 @@ Project for ESP32 that monitors temperature, humidity, and smoke levels in a roo
    Upload the code to ESP32 via Arduino IDE  
 2. Doplň svoje údaje do `config.h` .
    Add your credentials to `config.h` .
-3. Pripoj senzory podľa tabuľky vyššie  
+4. Pripoj senzory podľa tabuľky vyššie  
    Connect sensors according to the table above  
-4. Spusti a sleduj výstupy na OLED a webovej stránke  
+5. Spusti a sleduj výstupy na OLED a webovej stránke  
    Run and monitor outputs on OLED and web interface  
 
 ---
@@ -71,6 +71,7 @@ Project for ESP32 that monitors temperature, humidity, and smoke levels in a roo
 
 ## Autor / Author
 M. Jamrichová
+
 
 
 
