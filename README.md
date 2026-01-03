@@ -1,5 +1,5 @@
 # IoT Monitor zadymenia / IoT Smoke Monitor
-Katolícka univerzita v Ružomberku, Pedagogická fakulta<br> **Predmet:** Internet vecí, **Študijný program:** RŠ informatika
+**Katolícka univerzita v Ružomberku, Pedagogická fakulta**<br> **Predmet:** Internet vecí, **Študijný program:** RŠ informatika
 
 ## Popis / Description
 **Slovensky:**  
@@ -72,6 +72,7 @@ Project for ESP32 that monitors temperature, humidity, and smoke levels in a roo
 
 ## Autor / Author
 M. Jamrichová
+
 
 
 
